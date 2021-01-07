@@ -131,6 +131,7 @@ export default {
         padding: 1rem;
         margin-bottom: 0.7rem;
         border-radius: 10px;
+        
     }
     li p{
         font-size: 2rem;
